@@ -1,1 +1,3 @@
 This is inital state.
+Added new line.
+Now have to create Pull request.
