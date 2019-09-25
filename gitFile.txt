@@ -1,1 +1,2 @@
 This is inital state.
+Added new line.
