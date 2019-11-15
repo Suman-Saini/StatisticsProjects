@@ -1,2 +1,2 @@
-# TestRepo
-This is test repository.
+# StatisticsProjects
+This folder contains projects related to Statistical methods for Data Analysis.
